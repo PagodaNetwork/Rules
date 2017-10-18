@@ -1,15 +1,16 @@
 # Rules
 
 ### Server Rules
-
+5. Hang tight
 
 ### Discord Rules
-
+4. We haven't released yet
 
 ### Teamspeak Rules
-
+3. So please be patient
 
 ### Cross-platform rules
-
+2. While we work out the errors.
 
 ### Exceptions.
+1. We promise, by Christmas.
